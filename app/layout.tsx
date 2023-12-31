@@ -51,11 +51,11 @@ export default function RootLayout({
               <Link
                 isExternal
                 className="flex items-center gap-1 text-current"
-                href="https://nextui-docs-v2.vercel.app?utm_source=next-app-template"
-                title="nextui.org homepage"
+                href="https://github.com/nomandhoni-cs/cfstats"
+                title="CFStats homepage"
               >
-                <span className="text-default-600">Powered by</span>
-                <p className="text-primary">NextUI</p>
+                <span className="text-default-600">Give us a star on</span>
+                <p className="text-primary">GitHub</p>
               </Link>
             </footer>
           </div>
