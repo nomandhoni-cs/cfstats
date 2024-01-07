@@ -80,7 +80,7 @@ export const Navbar = () => {
             startContent={<HeartFilledIcon className="text-danger" />}
             variant="flat"
           >
-            Sponsor
+            Support Me
           </Button>
         </NavbarItem>
       </NavbarContent>
