@@ -28,7 +28,6 @@ export default function Home() {
             </span>
           }
           type="search"
-          // Adjust height and padding for a larger input box
           style={{ height: "3.5rem", padding: "0.75rem" }}
         />
       </div>
